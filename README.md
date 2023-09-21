@@ -1,5 +1,5 @@
-<h3 align="left" style="color: #ff00ff;">Hi 👋, I'm Enes Berke Karaoglan:</h3>
-<h3 align="left" style="color: #ff00ff;">I am a 2nd grade computer engineering student. I have a basic knowledge of programming languages and I am constantly trying to improve myself. I am interested in topics such as artificial intelligence, data science, data analysis and I am committed to developing these subjects.</h3>
+<h3 align="center" style="color: #ff00ff;">Hi 👋, I'm Enes Berke Karaoglan</h3>
+<h3 align="center" style="color: #ff00ff;">I am a 2nd grade computer engineering student. I have a basic knowledge of programming languages and I am constantly trying to improve myself. I am interested in topics such as artificial intelligence, data science, data analysis and I am committed to developing these subjects.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enes-berke&label=Profile%20Views&color=808080&style=flat" alt="enes-berke" /> </p>

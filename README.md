@@ -2,9 +2,8 @@
 <h3 align="left" style="color: #ff00ff;">I am a 2nd grade computer engineering student. I have a basic knowledge of programming languages and I am constantly trying to improve myself. I am interested in topics such as artificial intelligence, data science, data analysis and I am committed to developing these subjects.</h3>
 
 
-<p align="left" style="background-color: black; padding: 10px; border-radius: 5px;">
-  <img src="https://komarev.com/ghpvc/?username=enes-berke&label=Profile%20views&color=0e75b6&style=flat" alt="enes-berke" style="color: white;" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=enes-berke&label=Profile%20Views&color=808080&style=flat" alt="enes-berke" /> </p>
+
 
 
 <h3 align="left" style="color: #ffffff;">Connect with me:</h3>

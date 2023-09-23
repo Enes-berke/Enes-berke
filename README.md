@@ -1,11 +1,9 @@
 <h3 align="center" style="color: #ff00ff !important;">Hi 👋, I'm Enes Berke Karaoglan</h3>
 <h3 align="center" style="color: #ff00ff;">I am a 2nd grade computer engineering student. I have a basic knowledge of programming languages and I am constantly trying to improve myself. I am interested in topics such as artificial intelligence, data science, data analysis and I am committed to developing these subjects.</h3>
+&nbsp;
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enes-berke&label=Profile%20Views&color=808080&style=flat" alt="enes-berke" /> </p>
-
-
-
 
 
 
@@ -25,12 +23,13 @@
 
 
 
-
-
-
 <h3 align="left" style="color: #ffffff;">Languages and Tools:</h3>
 
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Enes-berke&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="200" alt="streak graph"  />

@@ -14,10 +14,10 @@
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" width="100" alt="medium"  />
   </a>  
   
-  <a href="https://linkedin.com/in/enes-berke-karao%c4%9flan-92b077253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enes-berke-karao%c4%9flan-92b077253" height="35" width="40" /></a>
-<a href="https://stackoverflow.com/users/users/22576655/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/22576655/" height="35" width="40" /></a>
+  <a href="https://linkedin.com/in/enes-berke-karao%c4%9flan-92b077253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enes-berke-karao%c4%9flan-92b077253" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/users/22576655/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/22576655/" height="30" width="40" /></a>
 <a href="https://kaggle.com/enesberke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="enesberke" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/enesberkekaraog1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="enesberkekaraog1" height="35" width="40" /></a>
+<a href="https://www.hackerrank.com/enesberkekaraog1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="enesberkekaraog1" height="30" width="40" /></a>
 </p>
 
 

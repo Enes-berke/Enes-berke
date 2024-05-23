@@ -1,5 +1,20 @@
 <h3 align="center" style="color: #ff00ff !important;">Hi 👋, I'm Enes Berke Karaoglan</h3>
-<h3 align="center" style="color: #ff00ff;">I am a 2nd grade computer engineering student. I have a basic knowledge of programming languages and I am constantly trying to improve myself. I am interested in topics such as artificial intelligence, data science, data analysis and I am committed to developing these subjects.</h3>
+<h3 align="center" style="color: #ff00ff;">[EN]
+
+Hello, I'm Enes Berke Karaoğlan. I'm a second-year computer engineering student and constantly improving myself in fields like data science, machine learning, deep learning, and artificial intelligence.
+
+I am responsible for software development in the software department at Pars IHA team, and additionally, I'm involved in an R&D project related to earthquakes where I develop applications in this field.
+
+With my high motivation and technical skills, I continuously advance myself in computer engineering and software development, focusing on providing solutions to real-world problems.
+
+
+[TR]
+
+Merhaba, ben Enes Berke Karaoğlan. 2. sınıf bilgisayar mühendisliği öğrencisiyim ve veri bilimi, makine öğrenimi, derin öğrenme ve yapay zeka gibi alanlarda kendimi sürekli olarak geliştiriyorum.
+
+Pars IHA takımında yazılım departmanında yazılım geliştirmeden sorumluyum ve ayrıca depremle ilgili bir AR-GE projesinde görev alıyor, bu alanda uygulamalar geliştiriyorum.
+
+Yüksek motivasyonum ve teknik becerilerimle, bilgisayar mühendisliği ve yazılım geliştirme alanlarında kendimi sürekli geliştiriyor ve gerçek dünya problemlerine çözümler üretmeye odaklanıyorum.</h3>
 &nbsp;
 
 

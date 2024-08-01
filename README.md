@@ -1,8 +1,6 @@
 <h3 align="center" style="color: #ff00ff !important;">Hi 👋, I'm Enes Berke Karaoglan</h3>
 <h3 align="center" style="color: #ff00ff;">[EN]
 
-[EN]
-
 Hello, I'm Enes Berke Karaoğlan. I'm a third-year computer engineering student and constantly improving myself in fields like data science, machine learning, deep learning, and artificial intelligence.
 
 I am responsible for software development in the software department at Pars IHA team, and additionally, I'm involved in an R&D project related to earthquakes where I develop applications in this field.

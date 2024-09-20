@@ -1,5 +1,7 @@
 <h3 align="center" style="color: #ff00ff !important;">Hi 👋, I'm Enes Berke Karaoglan</h3>
-<h3 align="center" style="color: #ff00ff;">### Türkçe (TR):
+<h3 align="center" style="color: #ff00ff;">
+    
+### Türkçe (TR):
 
 Uludağ Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisi olarak, veri bilimi, makine öğrenmesi ve yapay zeka alanlarında derinlemesine bilgi ve deneyim edinmeye devam ediyorum. Eğitimler alarak, projeler geliştirerek ve araştırmalar yaparak bu dinamik ve hızla gelişen alanlarda kendimi sürekli olarak güncelliyorum.
 

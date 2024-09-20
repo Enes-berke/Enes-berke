@@ -1,20 +1,21 @@
 <h3 align="center" style="color: #ff00ff !important;">Hi 👋, I'm Enes Berke Karaoglan</h3>
-<h3 align="center" style="color: #ff00ff;">[EN]
+<h3 align="center" style="color: #ff00ff;">### Türkçe (TR):
 
-Hello, I'm Enes Berke Karaoğlan. I'm a third-year computer engineering student and constantly improving myself in fields like data science, machine learning, deep learning, and artificial intelligence.
+Uludağ Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisi olarak, veri bilimi, makine öğrenmesi ve yapay zeka alanlarında derinlemesine bilgi ve deneyim edinmeye devam ediyorum. Eğitimler alarak, projeler geliştirerek ve araştırmalar yaparak bu dinamik ve hızla gelişen alanlarda kendimi sürekli olarak güncelliyorum.
 
-I am responsible for software development in the software department at Pars IHA team, and additionally, I'm involved in an R&D project related to earthquakes where I develop applications in this field.
+Veri Bilimi Topluluğu ve Dijital Gelecek Akademisi'nin kurucu başkanı olarak, Türkiye genelindeki öğrencilere ulaşmayı ve eğitimdeki eşitsizlikleri azaltmayı hedefliyorum. Bu topluluklar aracılığıyla geniş bir kitleye bilgi ve kaynak sağlayarak, teknoloji ve inovasyonun toplumsal etkilerini artırmayı amaçlıyorum.
 
-With my high motivation and technical skills, I continuously advance myself in computer engineering and software development, focusing on providing solutions to real-world problems.
+Proje yönetimi ve ekip liderliği konularında edindiğim deneyimler sayesinde, öğrendiklerimi ve deneyimlerimi başkalarına aktararak topluma ve sektöre katkıda bulunmayı amaçlıyorum. Teknolojinin potansiyelinden yararlanarak ileriye dönük projeler ve çözümler geliştirme konusunda kararlıyım.
 
+---
 
-[TR]
+### English (EN):
 
-Merhaba, ben Enes Berke Karaoğlan. 3. sınıf bilgisayar mühendisliği öğrencisiyim ve veri bilimi, makine öğrenimi, derin öğrenme ve yapay zeka gibi alanlarda kendimi sürekli olarak geliştiriyorum.
+As a 3rd year Computer Engineering student at Uludağ University, I continue to deepen my knowledge and experience in data science, machine learning, and artificial intelligence. By taking courses, developing projects, and conducting research, I constantly stay up to date in these dynamic and rapidly evolving fields.
 
-Pars IHA takımında yazılım departmanında yazılım geliştirmeden sorumluyum ve ayrıca depremle ilgili bir AR-GE projesinde görev alıyor, bu alanda uygulamalar geliştiriyorum.
+As the founder and president of the Data Science Community and Digital Future Academy, I aim to reach students across Turkey and reduce inequalities in education. Through these communities, I provide information and resources to a broad audience, aiming to enhance the societal impact of technology and innovation.
 
-Yüksek motivasyonum ve teknik becerilerimle, bilgisayar mühendisliği ve yazılım geliştirme alanlarında kendimi sürekli geliştiriyor ve gerçek dünya problemlerine çözümler üretmeye odaklanıyorum.</h3>
+With the experience I have gained in project management and team leadership, I strive to share my knowledge and contribute to both society and the industry. I am committed to developing forward-looking projects and solutions by harnessing the potential of technology.</h3>
 &nbsp;
 
 

@@ -3,24 +3,15 @@
     
 ### Türkçe (TR):
 
-Uludağ Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisi olarak, veri bilimi, makine öğrenmesi ve yapay zeka alanlarında derinlemesine bilgi ve deneyim edinmeye devam ediyorum. Eğitimler alarak, projeler geliştirerek ve araştırmalar yaparak bu dinamik ve hızla gelişen alanlarda kendimi sürekli olarak güncelliyorum.
+Uludağ Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Akademik gelişimimin ötesine geçerek yapay zekâ, makine öğrenmesi ve veri bilimi alanlarında projeler geliştiriyor, sürekli eğitimler alıyor ve güncel araştırmaları takip ederek bu dinamik alanda kendimi daima yeniliyorum.
 
-Veri Bilimi Topluluğu ve Dijital Gelecek Akademisi'nin kurucu başkanı olarak, Türkiye genelindeki öğrencilere ulaşmayı ve eğitimdeki eşitsizlikleri azaltmayı hedefliyorum. Bu topluluklar aracılığıyla geniş bir kitleye bilgi ve kaynak sağlayarak, teknoloji ve inovasyonun toplumsal etkilerini artırmayı amaçlıyorum.
+Kurucusu olduğum Uludağ Veri Bilimi Topluluğu ve Data Science Türkiye gibi girişimlerle, Türkiye’nin dört bir yanındaki gençleri bilgi, deneyim ve fırsatlarla buluşturan güçlü bir topluluk yapısı inşa ettim. Bugüne kadar 1000’den fazla öğrenciye ulaşan bu projeler, yalnızca teknik yetkinliklerimi değil; aynı zamanda iletişim, stratejik planlama ve liderlik becerilerimi geliştirmeme de önemli katkılar sağladı.
 
-Proje yönetimi ve ekip liderliği konularında edindiğim deneyimler sayesinde, öğrendiklerimi ve deneyimlerimi başkalarına aktararak topluma ve sektöre katkıda bulunmayı amaçlıyorum. Teknolojinin potansiyelinden yararlanarak ileriye dönük projeler ve çözümler geliştirme konusunda kararlıyım.
+Teknolojiyi yalnızca bireysel başarı için değil, toplumsal fayda üretmenin en etkili yollarından biri olarak görüyorum. Bu anlayışla; eğitimde fırsat eşitliğini desteklemek, yapay zekâ temelli üretken bir ekosistem kurmak ve gençleri bu dönüşümün aktif bir parçası haline getirmek için çalışıyorum.
 
----
+Proje yönetimi, ekip liderliği ve stratejik planlama süreçlerinde aktif roller üstleniyor; aynı zamanda birebir mentorluklarla öğrencilere yol arkadaşlığı yapmaktan büyük mutluluk duyuyorum.
 
-### English (EN):
-
-As a 3rd year Computer Engineering student at Uludağ University, I continue to deepen my knowledge and experience in data science, machine learning, and artificial intelligence. By taking courses, developing projects, and conducting research, I constantly stay up to date in these dynamic and rapidly evolving fields.
-
-As the founder and president of the Data Science Community and Digital Future Academy, I aim to reach students across Turkey and reduce inequalities in education. Through these communities, I provide information and resources to a broad audience, aiming to enhance the societal impact of technology and innovation.
-
-With the experience I have gained in project management and team leadership, I strive to share my knowledge and contribute to both society and the industry. I am committed to developing forward-looking projects and solutions by harnessing the potential of technology.</h3>
-&nbsp;
-
-
+Edindiğim deneyimleri topluma ve sektöre aktarma motivasyonuyla hareket ediyor, teknolojinin sunduğu potansiyeli kullanarak sürdürülebilir ve yenilikçi projeler üretmeye kararlılıkla devam ediyorum.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enes-berke&label=Profile%20Views&color=808080&style=flat" alt="enes-berke" /> </p>
 

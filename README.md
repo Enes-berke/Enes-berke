@@ -33,7 +33,7 @@ I'm a **Computer Engineering** student at Uludağ University (Class of 2026), cu
 | 📍 Location | Bursa, Turkey 🇹🇷 |
 | 🔭 Focus | ML · DL · NLP · Time Series · Full Stack · GenAI |
 | 📄 Publications | AB'26 Academic Conference — Data Science paper |
-| 📱 Apps | 6 mobile apps in active development |
+| 📱 Apps | 2 published apps · 4 in development — [Mürekkep](https://enesberke.com/murekkep.html) & [Ailem Yanımda](https://enesberke.com/annem-yanimda.html) |
 
 ---
 
@@ -46,6 +46,7 @@ I'm a **Computer Engineering** student at Uludağ University (Class of 2026), cu
 ### 🤖 Technical Focus
 - ML/DL projects: classification, regression, NLP, time series
 - Full Stack development (Backend + Frontend) at **TOFAŞ IT**
+- 📱 **6 mobile apps** built with React Native & Expo — **2 published**: [Mürekkep](https://enesberke.com/murekkep.html) (reading, writing & community) · [Ailem Yanımda](https://enesberke.com/annem-yanimda.html) (baby & child development tracker)
 - UAV software @ **PARS İHA** (autonomous systems & real-time data)
 - Active **Kaggle** competitor & notebook author
 - Published researcher — **AB'26 Conference**

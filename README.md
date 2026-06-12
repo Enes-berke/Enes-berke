@@ -82,6 +82,11 @@ I'm a **Computer Engineering** student at Uludağ University (Class of 2026), cu
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-189FFF?style=for-the-badge&logo=xgboost&logoColor=white)
 
+### Mobile Development
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
 ### Tools & Platforms
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -107,15 +112,6 @@ I'm a **Computer Engineering** student at Uludağ University (Class of 2026), cu
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║  · · · · · · · · ·  BUILDING IN PUBLIC  · · · · · · · · · ·  ║
-║                                                              ║
-║   1 000 + students   ·   3 communities   ·   6 mobile apps  ║
-║   30 + certificates  ·   2 ML papers     ·   1 TOFAŞ IT job ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-![snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" width="100%" />
 
 </div>
